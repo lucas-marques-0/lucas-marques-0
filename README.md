@@ -1,7 +1,6 @@
 ## Olá! Me chamo Lucas Marques, sou estudante de programação e tecnologia :)
 
-![banner1](https://user-images.githubusercontent.com/111307314/184984656-a23b7589-38c1-4ff0-99bc-b2e69236230a.gif)
-
+<img alt="banner1" src="https://user-images.githubusercontent.com/111307314/184989831-d099fbab-a010-4d5b-9fa9-691fb8a8e2c2.png">
 
 <div align="center">
   <a href="https://github.com/lucas-marques-0">
