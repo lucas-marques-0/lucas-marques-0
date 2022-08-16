@@ -1,9 +1,5 @@
 ## Olá! Me chamo Lucas Marques, sou estudante de programação e tecnologia :)
 
-- 🔭 Hoje estou com a meta de estagiar
-- 🌱 Estudando front-end
-- 💬 Contate-me no email: lucasmarqueshzx@gmail.com
-
 <div align="center">
   <a href="https://github.com/lucas-marques-0">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lucas-marques-0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
