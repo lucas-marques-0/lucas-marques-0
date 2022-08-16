@@ -21,7 +21,7 @@
  <a href="https://discordapp.com/users/806941413019090944" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:lucasmarqueshzx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://open.spotify.com/playlist/3TNMcoGu5xhkUNgd5EXPqv?si=hwLhcHGPT8qoLAdftQ8ELA" target="_blank">
+    <a href="https://open.spotify.com/user/5fxpyqnaewy0v9dujn2zoez5s?si=RR92-9UdSReqGPFdtEjPCw&utm_source=copy-link&nd=1" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a>
   
