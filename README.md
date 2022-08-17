@@ -43,7 +43,7 @@
 
 <h3>O que mais eu ando fazendo...</h3>
 
-- Jogo basquete e torço pro <a href="https://www.google.com/search?q=boston+celtics&oq=boston+celtics&aqs=chrome..69i57.2836j0j9&sourceid=chrome&ie=UTF-8" color="green">Boston Celtics<a> na NBA.
+- Jogo basquete e torço pro <a href="https://www.google.com/search?q=boston+celtics&oq=boston+celtics&aqs=chrome..69i57.2836j0j9&sourceid=chrome&ie=UTF-8" color="green" a:visited:color="red">Boston Celtics<a> na NBA.
 - Assisto <a href="https://www.google.com/search?q=filmes+anos+80&sxsrf=ALiCzsaOMIKr92jLF5cUhXSRzNPwMTP9Yw%3A1660701460883&ei=FEv8Yt3ANdS21sQPstGp6Ao&ved=0ahUKEwjdmp2F48z5AhVUm5UCHbJoCq0Q4dUDCA4&uact=5&oq=filmes+anos+80&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjEOoCECc6BAgAEEM6EQguEIAEELEDEIMBEMcBENEDOgoIABCxAxCDARBDOggIABCABBCxAzoLCAAQgAQQsQMQgwFKBAhBGABKBAhGGABQAFiMDmCDEGgBcAF4AIABvQGIAb8TkgEEMC4xNJgBAKABAbABCsABAQ&sclient=gws-wiz#wxpd=:true" color="green">filmes</a> clássicos dos anos 80 (principalmente os de terror).
   - "Forrest gump", "De volta pro futuro", "Halloween", "Pânico", etc...
 - Por influência de <a href="https://br.pinterest.com/pin/986569862098021048/" color="green">rappers<a>, sou muito fã de moda e como se expressar por ela.
