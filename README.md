@@ -1,4 +1,4 @@
-## Olá! Me chamo LUCAS, sou estudante de programação e tecnologia :)
+## Olá! Me chamo Lucas, sou estudante de programação e tecnologia :)
 
 ![Profile views](https://gpvc.arturio.dev/lucas-marques-0)
 
