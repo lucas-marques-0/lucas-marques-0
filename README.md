@@ -1,6 +1,8 @@
+![Profile views](https://gpvc.arturio.dev/lucas-marques-0)
+
 ## Olá! Me chamo Lucas Marques, sou estudante de programação e tecnologia :)
 
-<img alt="bannerfé" src="https://user-images.githubusercontent.com/111307314/185009827-e700f1e6-11a9-4935-869e-18de1445770c.png">
+<img alt="banner-github-fé" src="https://user-images.githubusercontent.com/111307314/185010484-81cb11a9-4716-4633-9efc-6870a749cf1b.png">
 
 <div align="center">
   <a href="https://github.com/lucas-marques-0">
