@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/lucas-marques-0)
 
-<img alt="banner-github-fé" src="https://user-images.githubusercontent.com/111307314/185010484-81cb11a9-4716-4633-9efc-6870a749cf1b.png">
+<img alt="banner-github-fe" src="https://user-images.githubusercontent.com/111307314/185010860-39f4785d-7ecf-43d2-805b-c783ab713078.png">
 
 <div align="center">
   <a href="https://github.com/lucas-marques-0">
