@@ -15,6 +15,10 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Lucas-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Lucas-SonyVegas" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/71/VEGAS_Pro_icon.png">
+  
   <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/Ouu7diKH8Hh86Vs4LA2JFNruzYVaqo_ZMm7WpUPjhbBVd1hc7gvmKUfKtErpXqv7jzXLLs6VeRSb6NQfjNXI9XoEeWoPsJSG84224GdQrlj_NZRLEIchyIkQjweGLZY_06nb4P-Rw5axqmZhUIg7BIBW2jo-pA9mNsMrtghUiwGQJyfbfggAgx2TlaLMjk00lSEapdIUtYKexFUoMH7S1oxXITEdi2rcrA9DVxuSroZHK9Fi383J1G-EaxGMcO89FkwuRcI4Phgd5dm9ecOqnqNMPdnM_cs4cuNMKed69BBMQaP4qQHezfe6VPXoI4fxJQJpYDFHEWvFQgt6q2LfVPIXWMw0VTFNW1AZVCzLL7SFVlenEzIpz_nivLmuurPbC8CPWf2uW4mtqFji-N_Q7P8ftZNRehMegh6VW4CoMhnCfT4Tm-xWuHGW1wn9NfIc8mGOSOqEpRteAzYCVt62l-tYKrnxe2UgCKq8QOlyT9gm__VS4PIssZS9lGpHxfYazG8dBd7ss75TkS9ETBCVzW7L5rkki3WOtradh1afXfhwle_Y0N8d0v6OQ3ZSwkIHngZgjfTUVVhfHIkxkkNVX0-BqqrRqtguA5BNKp9Anp95qh3X-2vmYzsJn4m4E6GQp-t3pVkVDyslGDIZF1Bb27MIuXQXPmyP8b9fgzT2DMEXlafInA4-KbyjSSEBl-N3Xx0k2tsv5Ik2Cdps_JQPUojwt-tuJi78YmucTPZKM43T5sVAgtPsYlLb76-5T67V_9ws50rrj6ZmVTUIwdYOl8iIh8bbOtfrL6m1Wp2kgdKxRznbKczB5sW4-56czK9RiM-C_2yhWJF9w1vYkY4AhwxVwAsNiJ9H1OyfhlPka4s=s676-no?authuser=1">
 </div>
   
