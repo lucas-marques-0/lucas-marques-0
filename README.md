@@ -1,6 +1,6 @@
 ## Olá! Me chamo Lucas, seja bem vindo ao meu perfil! :)
 
-![Profile views](https://visitor-badge.glitch.me/lucas-marques-0)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 <img alt="banner-github-fe" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/d54c389f-9c8d-47ba-a7de-a43fd2c7dc83">
 
