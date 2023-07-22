@@ -1,9 +1,8 @@
 ## Olá! Me chamo Lucas, seja bem vindo ao meu perfil! :)
 
-![Profile views](https://gpvc.arturio.dev/lucas-marques-0)
+![Profile views](https://visitor-badge.glitch.me/lucas-marques-0)
 
 <img alt="banner-github-fe" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/d54c389f-9c8d-47ba-a7de-a43fd2c7dc83">
-![teste555](https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/d54c389f-9c8d-47ba-a7de-a43fd2c7dc83)
 
 <div align="center">
   <a href="https://github.com/lucas-marques-0">
