@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5e4d85&size=35&center=true&vCenter=true&width=1000&lines=Esse+é+Meu+Github;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg) <br><br>
 
-# 💾 Sobre mim
+# 💾 Muito Prazer!
 
 **`Desenvolvedor Front-end Web e Mobile`**
 
