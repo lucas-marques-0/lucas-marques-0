@@ -6,7 +6,7 @@
 
 <h1 align="center">Sobre mim</h1>
 <p align="center">
-  Trabalho e estudo programação a 3 anos e no momento atuo profissionalmente como desenvolvedor Angular. Estou me especializando no desenvolvimento mobile com React Native e estudando back-end com C#, fazendo  projetos nessas tecnologias constantemente.
+  Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalmente como desenvolvedor Angular. Estou me especializando no desenvolvimento mobile com React Native e estudando back-end com C#, fazendo projetos nessas tecnologias constantemente.
 </p> <br>
 
 <div align="center">  
