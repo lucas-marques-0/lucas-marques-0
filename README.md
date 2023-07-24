@@ -30,6 +30,7 @@
   <a href="https://www.instagram.com/lucasmarquesfm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasmarques0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:lucasmarqueshzx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/5fxpyqnaewy0v9dujn2zoez5s?si=ca4f95075e4d4761" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%1EDB954?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e4d85&height=120&section=footer"/>
