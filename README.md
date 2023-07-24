@@ -6,7 +6,7 @@
 
 **`Desenvolvedor Front-end Web e Mobile`**
 
-Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalmente como desenvolvedor Angular. Estou me especializando no desenvolvimento mobile com React Native e estudando back-end com C#, fazendo projetos nessas e em muitas outras tecnologias constantemente. Aqui você pode me conhecer melhor, acompanhar a minha evolução, e ver o que de novo eu tenho desenvolvido.
+Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalmente como desenvolvedor Angular. Estou me especializando no desenvolvimento mobile com React Native e estudando back-end com C#, fazendo projetos nessas e em muitas outras tecnologias constantemente. Aqui você pode me conhecer melhor, acompanhar minha evolução, e ver o que eu ando desenvolvendo.
 
   <div align="left">
   <a href="https://www.linkedin.com/in/lucasmarques0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
