@@ -1,4 +1,4 @@
-<img style="padding-bottom:0px;" width=100% src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/e1fd39e5-91c8-4b16-b69d-cfc3990f717c" />
+<!-- <img style="padding-bottom:0px;" width=100% src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/e1fd39e5-91c8-4b16-b69d-cfc3990f717c" /> -->
 <img style="padding-top:0px;" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e4d85&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5e4d85&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Lucas+Marques;Sou+Um+Desenvolvedor;Esse+é+Meu+Github;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg) <br><br>
