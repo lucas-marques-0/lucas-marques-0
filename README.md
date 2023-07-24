@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e4d85&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5e4d85&size=35&center=true&vCenter=true&width=1000&lines=Esse+é+Meu+Github;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg) <br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5e4d85&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Esse+é+Meu+Github;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg) <br><br>
 
 # 💾 Muito Prazer!
 
 **`Desenvolvedor Front-end Web e Mobile`**
 
-Trabalho e estudo programação a 3 anos e no momento atuo profissionalmente como desenvolvedor Angular. Estou me especializando no desenvolvimento mobile com React Native e estudando back-end com C#, fazendo projetos nessas tecnologias constantemente.
+Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalmente como desenvolvedor Angular. Estou me especializando no desenvolvimento mobile com React Native e estudando back-end com C#, fazendo projetos nessas e em muitas outras tecnologias constantemente, aqui você pode acompanhar o que eu jáfiz e tenho feito recentemente.
 
   <div align="left">
   <a href="https://www.linkedin.com/in/lucasmarques0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
