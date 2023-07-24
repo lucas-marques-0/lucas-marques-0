@@ -34,12 +34,12 @@ Trabalho e estudo programação a 3 anos e no momento atuo profissionalmente com
 
 ### 📺 Projetos Recentes
 
-<img width="300px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
-<img width="300px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
-<img width="300px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
-<img width="300px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
-<img width="300px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
-<img width="300px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
+<img width="250px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
+<img width="250px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
+<img width="250px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
+<img width="250px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
+<img width="250px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
+<img width="250px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
 <br><br>
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Explorar%20Mais%20Projetos-red?style=for-the-badge&logo=computer&logoColor=white"/>](https://github.com/lucas-marques-0?tab=repositories)
