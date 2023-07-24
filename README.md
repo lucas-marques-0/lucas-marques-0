@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e4d85&height=120&section=header"/>
+
 # 💾 Lucas Marques
 
 **`Desenvolvedor Front-end Web e Mobile`**
