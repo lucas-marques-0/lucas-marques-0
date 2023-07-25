@@ -34,7 +34,7 @@ Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalm
 
 ### 🌌 Projetos Recentes
 
-<img width="250px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
+<img width="250px" src="assets/fundo-projeto-em-breve.png" />
 <img width="250px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
 <img width="250px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
 <img width="250px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
