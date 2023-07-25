@@ -58,6 +58,9 @@ Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalm
 <details>
  <summary><h3>🎇 Mais...</h3></summary>
      Teste.
+</details>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e4d85&height=120&section=footer"/>
 
 
 <!--<img width=100% src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/e1fd39e5-91c8-4b16-b69d-cfc3990f717c" />
