@@ -53,12 +53,12 @@ Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalm
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marques-0&layout=compact&hide_border=true&title_color=7d5b8c&text_color=7d5b8c&bg_color=0d1117" />
 </div>
 
-#
+<!-- #
 
 <details>
  <summary><h3>🎇 Mais...</h3></summary>
      Teste.
-</details>
+</details> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e4d85&height=120&section=footer"/>
 
