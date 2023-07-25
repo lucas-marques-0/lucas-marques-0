@@ -17,7 +17,7 @@ Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalm
 
 ---
 
-### ⚙️ Linguagens e Ferramentas
+### 🌃 Linguagens e Ferramentas
 
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -32,7 +32,7 @@ Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalm
 
 #
 
-### 📺 Projetos Recentes
+### 🌌 Projetos Recentes
 
 <img width="250px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
 <img width="250px" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/b4349dfd-9a2b-4f25-b8fb-cfc18630a865" />
@@ -46,7 +46,7 @@ Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalm
 
 #
 
-### 📊 Estatísticas do Github
+### 🎇 Estatísticas do Github
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucas-marques-0&show_icons=true&count_private=true&hide_border=true&title_color=7d5b8c&icon_color=7d5b8c&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Marques github stats" /> 
@@ -56,7 +56,7 @@ Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalm
 #
 
 <details>
- <summary><h3>🔒 Mais...</h3></summary>
+ <summary><h3>🌉 Mais...</h3></summary>
     🔓 Teste.
 
 
