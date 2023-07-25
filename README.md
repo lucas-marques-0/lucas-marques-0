@@ -46,7 +46,7 @@ Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalm
 
 #
 
-### 🎇 Estatísticas do Github
+### 🌉 Estatísticas do Github
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucas-marques-0&show_icons=true&count_private=true&hide_border=true&title_color=7d5b8c&icon_color=7d5b8c&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Marques github stats" /> 
@@ -56,8 +56,8 @@ Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalm
 #
 
 <details>
- <summary><h3>🌉 Mais...</h3></summary>
-    🔓 Teste.
+ <summary><h3>🎇 Mais...</h3></summary>
+     Teste.
 
 
 <!--<img width=100% src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/e1fd39e5-91c8-4b16-b69d-cfc3990f717c" />
