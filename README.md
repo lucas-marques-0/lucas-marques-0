@@ -7,7 +7,7 @@
 **`Desenvolvedor Full Stack`**
 
 
-E aí! Me chamo Lucas Marques, e sou um desenvolvedor apaixonado por unir tecnologia e negócios. Minha jornada de mais de 4 anos é marcada pela habilidade de não apenas escrever código, mas também de moldar ideias inovadoras. Se curte inovação tecnológica, confira meu GitHub :)
+E aí! Sou um desenvolvedor apaixonado pelo misto de tecnologia e negócios. Minha jornada de mais de 4 anos é marcada pela habilidade de não apenas escrever código, mas também de moldar os projetos onde passei com ideias inovadoras. Se quiser me conhecer melhor, acesse os links abaixo :)
 
   <div align="left">
   <a href="https://www.linkedin.com/in/lucasmarques0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1E4289?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
