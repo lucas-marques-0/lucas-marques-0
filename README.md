@@ -10,7 +10,7 @@ Com uma jornada de mais de 4 anos, me encontro atuando profissionalmente como de
 
   <div align="left">
   <a href="https://www.linkedin.com/in/lucasmarques0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=website&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=person&logoColor=white" target="_blank"></a>
   <a href="mailto:lucasmarqueshzx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
