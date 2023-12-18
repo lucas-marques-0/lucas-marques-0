@@ -34,7 +34,6 @@ E aí! Sou um desenvolvedor apaixonado pelo misto de tecnologia e negócios. Min
 
 ### 🌌 Projetos Pessoais
 
-[<img width="250px" style="border-radius: 10px;" src="assets/fundo-projeto-em-breve.png" />](https://github.com/lucas-marques-0?tab=repositories)
 [<img width="250px" style="border-radius: 10px;" src="https://github.com/lucas-marques-0/lucas-marques-0/assets/111307314/f1f52725-4fcf-4ec9-8598-3786152bcb40" />](https://github.com/lucas-marques-0/MusicTaste-frontend)
 [<img width="250px" style="border-radius: 10px;" src="assets/fundo-projeto-em-breve.png" />](https://github.com/lucas-marques-0?tab=repositories)
 [<img width="250px" style="border-radius: 10px;" src="assets/fundo-projeto-em-breve.png" />](https://github.com/lucas-marques-0?tab=repositories)
