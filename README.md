@@ -6,7 +6,8 @@
 
 **`Desenvolvedor Full Stack`**
 
-Com uma jornada de mais de 4 anos, me encontro atuando profissionalmente como desenvolvedor Full Stack em Angular e NodeJS. Minha trajetória inclui contribuições significativas em projetos de grande relevância, desde iniciativas acadêmicas até colaborações profissionais, como projetos governamental. Em todos os projeto que já participei, não apenas me destaquei no desenvolvimento, mas também desempenhei um papel fundamental na concepção visual e apresentação de ideias para aprimorar o produto final.
+
+E aí! Me chamo Lucas Marques, e sou um desenvolvedor apaixonado por unir tecnologia e negócios. Minha jornada de mais de 4 anos é marcada pela habilidade de não apenas escrever código, mas também de moldar ideias inovadoras. Se curte inovação tecnológica, confira meu GitHub :)
 
   <div align="left">
   <a href="https://www.linkedin.com/in/lucasmarques0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1E4289?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
