@@ -4,15 +4,13 @@
 
 # ☔️ Apresentação
 
-**`Desenvolvedor Front-end Web e Mobile`**
+**`Desenvolvedor Full Stack`**
 
 Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalmente como desenvolvedor Angular. Estou me especializando em desenvolvimento mobile com React Native e estudando back-end com C#, fazendo projetos nessas e em muitas outras tecnologias constantemente. Aqui você pode me conhecer melhor, acompanhar minha evolução, e ver o que ando fazendo.
 
   <div align="left">
   <a href="https://www.linkedin.com/in/lucasmarques0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:lucasmarqueshzx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/lucasmarquesfm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/5fxpyqnaewy0v9dujn2zoez5s?si=ca4f95075e4d4761" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%1EDB954?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
 ---
