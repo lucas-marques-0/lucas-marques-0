@@ -6,7 +6,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalmente como desenvolvedor Angular. Estou me especializando em desenvolvimento mobile com React Native e estudando back-end com C#, fazendo projetos nessas e em muitas outras tecnologias constantemente. Aqui você pode me conhecer melhor, acompanhar minha evolução, e ver o que ando fazendo.
+Com uma jornada de mais de 4 anos, me encontro atuando profissionalmente como desenvolvedor Full Stack em Angular e NodeJS. Minha trajetória inclui contribuições significativas em projetos de grande relevância, desde iniciativas acadêmicas até colaborações profissionais, como projetos governamental. Em todos os projeto que já participei, não apenas me destaquei no desenvolvimento, mas também desempenhei um papel fundamental na concepção visual e apresentação de ideias para aprimorar o produto final.
 
   <div align="left">
   <a href="https://www.linkedin.com/in/lucasmarques0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -19,9 +19,9 @@ Trabalho e estudo programação a mais de 3 anos e no momento atuo profissionalm
 
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="bootstrap"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
