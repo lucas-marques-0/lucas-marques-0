@@ -32,7 +32,7 @@ E aí! Sou um desenvolvedor apaixonado pelo misto de tecnologia e negócios. Min
 
 #
 
-### 🌌 Projetos Recentes
+### 🌌 Projetos Pessoais
 
 [<img width="250px" style="border-radius: 10px;" src="assets/fundo-projeto-em-breve.png" />](https://github.com/lucas-marques-0?tab=repositories)
 [<img width="250px" style="border-radius: 10px;" src="assets/fundo-projeto-em-breve.png" />](https://github.com/lucas-marques-0?tab=repositories)
